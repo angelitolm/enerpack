@@ -6,6 +6,8 @@ EnerPack is a applicaction for the Managament Fuel Card in Cuban Factories.
 
 It allows you to have all the energy information, in addition to managing it and generating reports in real time, related to your company. You can manage the charges and withdrawals of your fuel cards and from here, you can check the existing balances on cards, consumption, fuel, sheets, cards, work, cost centers and establishments. This platform also offers high versatility and configuration so that it fits into its accounting system and can export data used by the most widely used accounting system in the country, Versat. Without a doubt, a formidable solution for Cuban companies.
 
+![EnerPack](https://www.facebook.com/171492279986652/photos/p.565658057236737/565658057236737/?type=3)
+
 This App can it generate many to reports, that facilities the working data:
 
 - Balance on Card
